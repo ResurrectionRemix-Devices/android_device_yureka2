@@ -444,6 +444,7 @@ PRODUCT_PACKAGES += \
     libqsap_sdk \
     libwifi-hal-qcom \
     wificond \
+    libwifi-hal-qcom \
     wpa_supplicant \
     wpa_supplicant.conf
 
